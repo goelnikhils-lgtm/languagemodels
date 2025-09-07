@@ -1,5 +1,7 @@
 Repo of Nikhil Goel
-#find code on implementation of Small LLM 
+
+#find code on implementation of Small LLM from scratch
 #Qwen3.0
-#Also agents 
-#The abve code has been derived from referring GitHub repo of Sebastian Raschka and other learned gentlemen
+#MultiHeadLatent Attention
+#Workflow and Agent Systems 
+#Disclaimer - The above code has been derived from referring GitHub repo of Sebastian Raschka , Vizuara Youtube Videos and LangChain Videos
