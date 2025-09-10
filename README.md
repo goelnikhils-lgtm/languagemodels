@@ -1,4 +1,4 @@
-Repo of Nikhil Goel 
+GitHubRepo of Nikhil Goel 
 #my focus is on foundational / inner workings of LLM and hence my GitHub has implementation of Small Language Models , Qwen3.0 from scratch
 #also on Attention Mechanism 
 #i keep updating this repo
